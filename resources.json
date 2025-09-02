@@ -1,7 +1,7 @@
 {
     "pcrp_core": {
         "repo": "PopcornRP/pcrp_core",
-        "html_url": "test",
+        "tebex": "https://portal.cfx.re/assets/granted-assets",
         "versions": {
             "1.0.0": [
                 "Demo",
