@@ -1,4 +1,5 @@
 {
+    
     "pcrp_core": {
         "versions": {
             "1.0.0": [
@@ -6,5 +7,13 @@
                 "Test"
             ]
         }
-    }
+    },
+    "material_sell": {
+        "versions": {
+            "1.0.0": [
+                "Demo"
+            ]
+        }
+    },
+    
 }
