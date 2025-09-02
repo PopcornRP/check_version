@@ -1,6 +1,6 @@
 {
     "pcrp_core": {
-        "repo": "",
+        "repo": "PopcornRP/check_version",
         "versions": {
             "1.0.0": [
                 "Demo",
