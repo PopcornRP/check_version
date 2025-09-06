@@ -8,6 +8,15 @@
             ]
         }
     },
+
+    "pcrp_recycler": {
+        "versions": {
+            "1.0.0": [
+                "Release"
+            ]
+        }
+    },
+    
     "material_sell": {
         "versions": {
             "1.0.0": [
